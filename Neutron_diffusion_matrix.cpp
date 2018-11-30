@@ -1,4 +1,5 @@
 //Program Neutron Diffusion 
+//by Christopher Jaya
 
 //Program ini dapat mengestimasi flux neutron dari persamaan difusi neutron satu dimensi
 // dengan nilai source yang uniform di sepanjang batang satu dimensi (kecuali di ujung-ujung batang)
