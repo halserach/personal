@@ -3,7 +3,7 @@
 //Program ini dapat mengestimasi flux neutron dari persamaan difusi neutron satu dimensi
 // dengan nilai source yang uniform di sepanjang batang satu dimensi (kecuali di ujung-ujung batang)
 
-//untuk mencari flux di titik-titik sepanjang batang satu dimensi digunakan metode gauss-siedel
+//untuk mencari flux di titik-titik sepanjang batang satu dimensi digunakan metode Gauss-Siedel
 //kemudian dilakukan iterasi perhitungan hingga hasil flux semuanya konvergen 
 
 #include <iostream>
