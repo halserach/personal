@@ -1,4 +1,5 @@
 //Laminar Flow Velocity in x-axis Calculator
+//by Christopher Jaya
 
 //Program ini dapat mengestimasi vx suatu aliran dari persamaan laminar flow
 
