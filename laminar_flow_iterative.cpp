@@ -2,7 +2,7 @@
 
 //Program ini dapat mengestimasi vx suatu aliran dari persamaan laminar flow
 
-//untuk mencari vx digunakan metode gauss-siedel dengan syarat batas vx(y=0) dan vx(y=L)
+//untuk mencari vx digunakan metode Gauss-Siedel dengan syarat batas vx(y=0) dan vx(y=L)
 //kemudian dilakukan iterasi perhitungan hingga hasil vx semuanya konvergen 
 
 #include <iostream>
