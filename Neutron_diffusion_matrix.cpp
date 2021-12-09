@@ -82,7 +82,7 @@ int main()
 		}
 
 
-	//E. Eliminasi diagonal atas (seluruh r[i][3])
+	//E. Eliminasi diagonal atas (seluruh r[i][2])
 		
 		//pada saat mengeliminasi kolom 3 pada r, nilai source diubah
 		//k telah dideklarasi
